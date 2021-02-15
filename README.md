@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @satishkrishnass
+- 👋 Hi, I’m Satish Kumar Sama
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 💞️ I’m looking to collaborate with people who work in those above mentioned domains.
